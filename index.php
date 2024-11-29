@@ -27,7 +27,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>About</h2>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        <p>My Code : Precision</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -37,98 +37,77 @@
             <img src="assets/img/my-profile-img.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 content">
-            <h2>UI/UX Designer &amp; Web Developer.</h2>
-            <p class="fst-italic py-3">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
+            <h2>GIS Analyst &amp; Developer</h2>
+            <br>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 May 1995</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>New York, USA</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>March 5th, 1995</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="https://www.linkedin.com/in/wisnubhaskoro/">My Linkedin</a></span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span><a href="tel:+6285211220825">+62-852-1122-0825</a></span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Location:</strong> <span>Surabaya, East Java</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>email@example.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>29</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><a href="mailto:wisnu.bhaskoro@gmail.com">wisnu.bhaskoro@gmail.com</a></span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
               </div>
             </div>
-            <p class="py-3">
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque.
-            </p>
           </div>
         </div>
-
       </div>
-
     </section><!-- /About Section -->
 
-    <!-- Skills Section -->
+    <!-- Language and Skills Section -->
     <section id="skills" class="skills section light-background">
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Skills</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Language & Skills</h2>
       </div><!-- End Section Title -->
-
       <div class="container" data-aos="fade-up" data-aos-delay="100">
-
         <div class="row skills-content skills-animation">
-
           <div class="col-lg-3">
-
-            <div class="progress">
-              <span class="skill"><span>ArcGIS / QGIS </span><i class="bi bi-globe-asia-australia"></i></span>
-            </div><!-- End Skills Item -->
-
-            <div class="progress">
-              <span class="skill"><span>MS Office </span><i class="bi bi-file-earmark-word"></i><i class="bi bi-file-earmark-excel"></i><i class="bi bi-file-earmark-ppt"></i></span>
-            </div><!-- End Skills Item -->
-
-            <div class="progress">
-              <span class="skill"><span>Drone Pilot </span><i class="fa-solid fa-helicopter"></i></span>
-            </div><!-- End Skills Item -->
-
-            <div class="progress">
-              <span class="skill"><span>Image Processing </span><i class="fa-solid fa-images"></i></span>
-            </div><!-- End Skills Item -->
-
+            Language
+            <ul class="skill">
+              <br>
+              <li>Indonesia<br><i class="fa-solid fa-language"></i></li>
+              <br>
+              <li>English <br><i class="fa-solid fa-earth-americas"></i></i></li>
+            </ul>
           </div>
-
           <div class="col-lg-3">
-
-            <div class="progress">
-              <span class="skill"><span>SQL Database Management </span><i class="fa-solid fa-database"></i></span>
-            </div><!-- End Skills Item -->
-
-            <div class="progress">
-              <span class="skill"><span>HTML, CSS, Javascript </span><i class="fa-brands fa-html5"></i> <i class="fa-brands fa-css3-alt"></i> <i class="fa-brands fa-js"></i></span>
-            </div><!-- End Skills Item -->
-
-            <div class="progress">
-              <span class="skill"><span>PHP </span><i class="fa-brands fa-php"></i></span>
-            </div><!-- End Skills Item -->
-
-            <div class="progress">
-              <span class="skill"><span>Leaflet JS </span><i class="fa-solid fa-leaf"></i></i></span>
-            </div><!-- End Skills Item -->
-
-
+            Skills
+            <ul class="skill">
+              <br>
+              <li>ArcGIS / QGIS <br><i class="bi bi-globe-asia-australia"></i></li>
+              <br>
+              <li>MS Office <br><i class="bi bi-file-earmark-word-fill"></i><i class="bi bi-file-earmark-excel-fill"></i><i class="bi bi-file-earmark-ppt-fill"></i></li>
+              <br>
+              <li>Drone Pilot <br><i class="fa-solid fa-helicopter"></i></li>
+              <br>
+              <li>Image Processing <br><i class="fa-solid fa-images"></i></li>
+            </ul>
           </div>
-
+          <div class="col-lg-3">
+            Skills
+            <ul class="skill">
+              <br>
+              <li>SQL Database Management <br><i class="fa-solid fa-database"></i></li>
+              <br>
+              <li>HTML, CSS, Javascript <br><i class="fa-brands fa-html5"></i> <i class="fa-brands fa-css3-alt"></i> <i class="fa-brands fa-js"></i></li>
+              <br>
+              <li>PHP <br><i class="fa-brands fa-php"></i></li>
+              <br>
+              <li>Leaflet JS <br><i class="fa-solid fa-leaf"></i></i></li>
+            </ul>
+          </div>
         </div>
-
       </div>
-
     </section><!-- /Skills Section -->
 
     <!-- Resume Section -->
@@ -137,7 +116,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Resume</h2>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -145,9 +124,8 @@
         <div class="row">
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <h3 class="resume-title">Sumary</h3>
-
-            <div class="resume-item pb-0">
+            <!-- <h3 class="resume-title">Summary</h3> -->
+            <!-- <div class="resume-item pb-0">
               <h4>Brandon Johnson</h4>
               <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
               <ul>
@@ -155,37 +133,35 @@
                 <li>(123) 456-7891</li>
                 <li>alice.barkley@example.com</li>
               </ul>
-            </div><!-- Edn Resume Item -->
+            </div> -->
+            <!-- Edn Resume Item -->
 
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+              <h4>Bachelor of Agriculture (Soil Sciences)</h4>
+              <h5>2012 - 2017</h5>
+              <p><em>Malang, East Java, Indonesia</em></p>
+              <p>Activities and societies: Student Association, Assistant Lecturer <br><br>
+                My final thesis for my study is about estimating the spread of soil moisture and drought potency in Bojonegoro District, East Java using the combination of remote sensing and spatial analysis. Based on my research, I have found that Bojonegoro District has medium to high drought potency.</p>
             </div><!-- Edn Resume Item -->
 
-            <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-              <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
-            </div><!-- Edn Resume Item -->
 
           </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
-              <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
-              </ul>
+              <h4>Geographic Information System Officer</h4>
+              <h5>2020 - Present</h5>
+              <p><em>Surabaya, East Java, Indonesia</em></p>
+              <p>Scope of work :</p>
+              <ol>
+                <li>Spatial database management (SQL-Based)</li>
+                <li>Map publishment</li>
+                <li>Aerial photo acquisition (DJI Drone)</li>
+                <li>Take direct responsibilty for areal statements of 1,300 Ha Planted Area for plantation monitoring and areal development, and</li>
+                <li>Webmap-WebGIS development (SQL-Geoserver-Leaflet Integration).</li>
+              </ol>
             </div><!-- Edn Resume Item -->
 
             <div class="resume-item">
