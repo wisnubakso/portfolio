@@ -51,19 +51,15 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/app-1.jpg" alt="">
+                  <img src="assets/img/portfolio/PORTOFOLIO - AGISOFT PHOTOSCAN_1.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/product-1.jpg" alt="">
+                  <img src="assets/img/portfolio/PORTOFOLIO - AGISOFT PHOTOSCAN_2.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/branding-1.jpg" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/books-1.jpg" alt="">
+                  <img src="assets/img/portfolio/PORTOFOLIO - AGISOFT PHOTOSCAN_3.png" alt="">
                 </div>
 
               </div>
@@ -75,17 +71,15 @@
             <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
               <h3>Project information</h3>
               <ul>
-                <li><strong>Category</strong>: Web design</li>
-                <li><strong>Client</strong>: ASU Company</li>
-                <li><strong>Project date</strong>: 01 March, 2020</li>
-                <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
+                <li><strong>Category</strong>: Aerial Photo Project </li>
+                <li><strong>Client</strong>: PT. Umaq Tukung Mandiri Utama (PT. WITA Internasional Bisnis Artisan)</li>
+                <li><strong>Project date</strong>: Nov 2020 - Feb 2021</li>
+                <!-- <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li> -->
               </ul>
             </div>
             <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
-              <h2>Exercitationem repudiandae officiis neque suscipit</h2>
-              <p>
-                Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
-              </p>
+              <h2>Aerial Photo Project for PT. UTMU 2020</h2>
+              <p>Aerial photo acquisition for PT. UTMU (1.300 Ha) with DJI Phantom 3, processed with Agisoft Photoscan. Completed within 4 months because this mission was held in rainy season.</p>
             </div>
           </div>
 

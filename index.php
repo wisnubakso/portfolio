@@ -16,7 +16,7 @@
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
         <h2>Wisnu Agung Bhaskoro</h2>
-        <p>Specialization : <span class="typed" data-typed-items="GIS Analyst, GIS Programmer-Developer, Drone Pilot, Raster Analyst">GIS Analyst</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
+        <p>Specialization : <span class="typed" data-typed-items="GIS Analyst, GIS Programmer, Drone Pilot, Raster Analyst">GIS Analyst</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
       </div>
 
     </section><!-- /Hero Section -->
@@ -37,7 +37,7 @@
             <img src="assets/img/my-profile-img.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 content">
-            <h2>GIS Analyst &amp; Developer</h2>
+            <h2>GIS Analyst - Programmer</h2>
             <br>
             <div class="row">
               <div class="col-lg-6">
@@ -86,9 +86,9 @@
               <br>
               <li>ArcGIS / QGIS <br><i class="bi bi-globe-asia-australia"></i></li>
               <br>
-              <li>MS Office <br><i class="bi bi-file-earmark-word-fill"></i><i class="bi bi-file-earmark-excel-fill"></i><i class="bi bi-file-earmark-ppt-fill"></i></li>
+              <li>MS Office <br><i class="bi bi-file-earmark-word-fill"></i> <i class="bi bi-file-earmark-excel-fill"></i> <i class="bi bi-file-earmark-ppt-fill"> </i></li>
               <br>
-              <li>Drone Pilot <br><i class="fa-solid fa-helicopter"></i></li>
+              <li>Drone Pilot <br><i class="fa-solid fa-helicopter"></i> <i class="fa-solid fa-camera"></i> <i class="fa-solid fa-image"></i></li>
               <br>
               <li>Image Processing <br><i class="fa-solid fa-images"></i></li>
             </ul>
@@ -140,7 +140,7 @@
             <div class="resume-item">
               <h4>Bachelor of Agriculture (Soil Sciences)</h4>
               <h5>2012 - 2017</h5>
-              <p><em>Malang, East Java, Indonesia</em></p>
+              <p><em><img src="assets/img/about/UB.jpg" width="30"> Brawijaya University <br> Malang, East Java, Indonesia</em></p>
               <p>Activities and societies: Student Association, Assistant Lecturer <br><br>
                 My final thesis for my study is about estimating the spread of soil moisture and drought potency in Bojonegoro District, East Java using the combination of remote sensing and spatial analysis. Based on my research, I have found that Bojonegoro District has medium to high drought potency.</p>
             </div><!-- Edn Resume Item -->
@@ -150,10 +150,11 @@
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
             <h3 class="resume-title">Professional Experience</h3>
+
             <div class="resume-item">
               <h4>Geographic Information System Officer</h4>
-              <h5>2020 - Present</h5>
-              <p><em>Surabaya, East Java, Indonesia</em></p>
+              <h5>Mar 2020 - Present</h5>
+              <p><em><img src="assets/img/about/WITA.jpg" width="30"> PT. WITA Internasional Bisnis Artisan <br> Surabaya, East Java, Indonesia</em></p>
               <p>Scope of work :</p>
               <ol>
                 <li>Spatial database management (SQL-Based)</li>
@@ -162,18 +163,51 @@
                 <li>Take direct responsibilty for areal statements of 1,300 Ha Planted Area for plantation monitoring and areal development, and</li>
                 <li>Webmap-WebGIS development (SQL-Geoserver-Leaflet Integration).</li>
               </ol>
-            </div><!-- Edn Resume Item -->
+            </div><!-- End Resume Item -->
 
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
-              <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
-              </ul>
+              <h4>Geographic Information System Officer</h4>
+              <h5>Jan 2019 - Mar 2020</h5>
+              <p><em><img src="assets/img/about/SSMS.png" width="30"> PT. Sawit Sumbermas Sarana, Tbk. <br> Pulang Pisau, Central Kalimantan, Indonesia</em></p>
+              <p>Scope of work :</p>
+              <ol>
+                <li>Spatial database management</li>
+                <li>Map publishment</li>
+                <li>Aerial photo acquisition (DJI Drone), and</li>
+                <li>Data supply for areal statements (12,000 Ha Planted Area) for plantation monitoring and areal development.</li>
+              </ol>
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>Geographic Information System Officer</h4>
+              <h5>Oct 2018 - Jan 2019</h5>
+              <p><em><img src="assets/img/about/SSMS.png" width="30"> PT. Sawit Sumbermas Sarana, Tbk. <br> Pulang Pisau, Central Kalimantan, Indonesia</em></p>
+              <p>Assists senior staffs in probation period at :</p>
+              <ol>
+                <li>Spatial database management</li>
+                <li>Map publishment</li>
+                <li>Aerial photo acquisition (DJI Drone), and</li>
+                <li>Data supply for areal statements (12,000 Ha Planted Area) for plantation monitoring and areal development.</li>
+              </ol>
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>Lab Assistant : GIS for Land Resources</h4>
+              <h5>Feb 2017 - Jun 2017</h5>
+              <p><em><img src="assets/img/about/UB.jpg" width="30"> Brawijaya University <br> Malang, East Java, Indonesia</em></p>
+              <p>Responsible to taught GIS Application for Land Resources Management to 20 younger students in practice and examination.</p>
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>Internship Staff</h4>
+              <h5>Aug 2015 - Dec 2015</h5>
+              <p><em><img src="assets/img/about/PERHUTANI.png" width="40"> Perum Perhutani <br> Malang, East Java, Indonesia</em></p>
+              <p>Assist senior supervisor and field assistant to :</p>
+              <ol>
+                <li>Supervise employees, and</li>
+                <li>Monitor the weekly report and administration documents.</li>
+
+              </ol>
             </div><!-- End Resume Item -->
 
           </div>
@@ -191,7 +225,6 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Portfolio</h2>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -200,154 +233,46 @@
 
           <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
             <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-app">App</li>
-            <li data-filter=".filter-product">Product</li>
-            <li data-filter=".filter-branding">Branding</li>
-            <li data-filter=".filter-books">Books</li>
+            <li data-filter=".filter-gis">GIS</li>
+            <li data-filter=".filter-DBMS">Spatial Database Management</li>
+            <li data-filter=".filter-webgis">WebMap Development</li>
+            <li data-filter=".filter-aerial-photo">Aerial Photo Project</li>
           </ul><!-- End Portfolio Filters -->
 
           <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
 
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-aerial-photo">
               <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/app-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/PORTOFOLIO - AGISOFT PHOTOSCAN_1.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
-                  <h4>App 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/app-1.jpg" title="App 1" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <h4>Aerial Photo Project 1</h4>
+                  <p>Aerial Photo Project for PT. UTMU 2020</p>
+                  <a href="assets/img/portfolio/PORTOFOLIO - AGISOFT PHOTOSCAN_1.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="aerial-photo-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Portfolio Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-aerial-photo">
               <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/product-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/PORTOFOLIO - AGISOFT PHOTOSCAN_2.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
-                  <h4>Product 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/product-1.jpg" title="Product 1" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <h4>Aerial Photo Project 1</h4>
+                  <p>Aerial Photo Project for PT. UTMU 2020</p>
+                  <a href="assets/img/portfolio/PORTOFOLIO - AGISOFT PHOTOSCAN_2.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="aerial-photo-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Portfolio Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-aerial-photo">
               <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/branding-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/PORTOFOLIO - AGISOFT PHOTOSCAN_3.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
-                  <h4>Branding 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/branding-1.jpg" title="Branding 1" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/books-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Books 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/books-1.jpg" title="Branding 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/app-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>App 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/app-2.jpg" title="App 2" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/product-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Product 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/product-2.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/branding-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Branding 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/branding-2.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/books-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Books 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/books-2.jpg" title="Branding 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/app-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>App 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/app-3.jpg" title="App 3" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/product-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Product 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/product-3.jpg" title="Product 3" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/branding-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Branding 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/branding-3.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/books-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Books 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/books-3.jpg" title="Branding 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <h4>Aerial Photo Project 1</h4>
+                  <p>Aerial Photo Project for PT. UTMU 2020</p>
+                  <a href="assets/img/portfolio/PORTOFOLIO - AGISOFT PHOTOSCAN_3.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="aerial-photo-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Portfolio Item -->
@@ -366,7 +291,6 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Services</h2>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -434,7 +358,6 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Contact</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -442,26 +365,34 @@
         <div class="info-wrap">
 
           <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <i class="bi bi-geo-alt flex-shrink-0"></i>
+            <a href="https://maps.app.goo.gl/5oQBCq2nNCRMCKL69"><i class="bi bi-geo-alt flex-shrink-0"></i></a>
             <div>
               <h3>Address</h3>
-              <p>A108 Adam Street, New York, NY 535022</p>
+              <p>Jl. Ahmad Yani No. 317, Kelurahan Dukuh Menanggal, Kecamatan Gayungan, Kota Surabaya, 60234</p>
             </div>
           </div><!-- End Info Item -->
 
           <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
-            <i class="bi bi-telephone flex-shrink-0"></i>
+            <a href="tel:+6285211220825"><i class="bi bi-telephone flex-shrink-0"></i></a>
             <div>
-              <h3>Call Us</h3>
-              <p>+1 5589 55488 55</p>
+              <h3>Call me</h3>
+              <p>+62-852-1122-0825</p>
             </div>
           </div><!-- End Info Item -->
 
-          <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
-            <i class="bi bi-envelope flex-shrink-0"></i>
+          <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+            <a href="https://wa.me/6285211220825"><i class="bi bi-whatsapp flex-shrink-0"></i></i></a>
             <div>
-              <h3>Email Us</h3>
-              <p>info@example.com</p>
+              <h3>Message me</h3>
+              <p>+62-852-1122-0825</p>
+            </div>
+          </div><!-- End Info Item -->
+
+          <div class=" info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+            <a href="mailto:wisnu.bhaskoro@gmail.com"><i class="bi bi-envelope flex-shrink-0"></i></a>
+            <div>
+              <h3>Email me</h3>
+              <p>wisnu.bhaskoro@gmail.com</p>
             </div>
           </div><!-- End Info Item -->
 
