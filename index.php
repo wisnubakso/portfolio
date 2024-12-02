@@ -12,7 +12,7 @@
     <!-- Hero Section -->
     <section id="hero" class="hero section dark-background">
 
-      <img src="assets/img/hero-bg.jpg" alt="" data-aos="fade-in" class="">
+      <img src="assets/img/hero-wisnu.jpeg" alt="" data-aos="fade-in" class="">
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
         <h2>Wisnu Agung Bhaskoro</h2>
@@ -34,7 +34,7 @@
 
         <div class="row gy-4 justify-content-center">
           <div class="col-lg-4">
-            <img src="assets/img/my-profile-img.jpg" class="img-fluid" alt="">
+            <img src="assets/img/profile-wisnu.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 content">
             <h2>GIS Analyst - Programmer</h2>
@@ -355,7 +355,19 @@
                 <div class="portfolio-info">
                   <h4>Webmap Project 1</h4>
                   <p>PT. UTMU Webmap Development</p>
-                  <a href="assets/img/portfolio/PORTFOLIO - CODING PROCESS WITH VSCODE.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="assets/img/portfolio/PORTFOLIO - GEOSERVER.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP AND VSCODE.png" class="img-fluid" alt="" width="325.33">
+                <div class="portfolio-info">
+                  <h4>Webmap Project 1</h4>
+                  <p>PT. UTMU Webmap Development</p>
+                  <a href="assets/img/portfolio/PORTFOLIO - WEBMAP AND VSCODE.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>

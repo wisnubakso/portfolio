@@ -59,11 +59,15 @@
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - CODING PROCESS WITH VSCODE" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - CODING PROCESS WITH VSCODE.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - GEOSERVER" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - GEOSERVER.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/PORTFOLIO - WEBMAP AND VSCODE.png" alt="">
                 </div>
 
               </div>
@@ -82,7 +86,7 @@
               </ul>
             </div>
             <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
-              <h2>PT. UTMU SQL Database Development</h2>
+              <h2>PT. UTMU Webmap Development</h2>
               <p>Integrating PgSQL-Geoserver-Leaflet to develop Webmap-WebGIS for PT. UTMU. This project is still continuing to this day until Webmap publishment stage.</p>
             </div>
           </div>
