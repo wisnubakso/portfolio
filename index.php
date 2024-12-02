@@ -84,7 +84,7 @@
             Skills
             <ul class="skill">
               <br>
-              <li>ArcGIS / QGIS <br><i class="bi bi-globe-asia-australia"></i></li>
+              <li>ArcGIS / QGIS <br><i class="bi bi-globe2"></i> <i class="bi bi-map-fill"></i></li>
               <br>
               <li>MS Office <br><i class="bi bi-file-earmark-word-fill"></i> <i class="bi bi-file-earmark-excel-fill"></i> <i class="bi bi-file-earmark-ppt-fill"> </i></li>
               <br>
@@ -140,11 +140,18 @@
             <div class="resume-item">
               <h4>Bachelor of Agriculture (Soil Sciences)</h4>
               <h5>2012 - 2017</h5>
-              <p><em><img src="assets/img/about/UB.jpg" width="30"> Brawijaya University <br> Malang, East Java, Indonesia</em></p>
+              <p><em><a href="https://www.ub.ac.id/"><img src="assets/img/about/UB.jpg" width="30"> Brawijaya University</a><br> Malang, East Java, Indonesia</em></p>
               <p>Activities and societies: Student Association, Assistant Lecturer <br><br>
                 My final thesis for my study is about estimating the spread of soil moisture and drought potency in Bojonegoro District, East Java using the combination of remote sensing and spatial analysis. Based on my research, I have found that Bojonegoro District has medium to high drought potency.</p>
             </div><!-- Edn Resume Item -->
 
+            <h3 class="resume-title">Course</h3>
+            <div class="resume-item">
+              <h4>WebGIS Basic : HTML, CSS, Javascript and Leaflet JS</h4>
+              <h5>Jun 2024</h5>
+              <p><em><a href="https://www.sinaugis.com/"><img src="assets/img/about/SINAUGIS.png" width="30"> SinauGIS</a><br> Yogyakarta, Special Region of Yogyakarta, Indonesia</em></p>
+              <p>Studying the basic of HTML, CSS, Javascript and utilization of Leaflet JS to build webmap applications.</p>
+            </div><!-- Edn Resume Item -->
 
           </div>
 
@@ -154,7 +161,7 @@
             <div class="resume-item">
               <h4>Geographic Information System Officer</h4>
               <h5>Mar 2020 - Present</h5>
-              <p><em><img src="assets/img/about/WITA.jpg" width="30"> PT. WITA Internasional Bisnis Artisan <br> Surabaya, East Java, Indonesia</em></p>
+              <p><em><a href="https://ptwita.com"><img src="assets/img/about/WITA.jpg" width="30"> PT. WITA Internasional Bisnis Artisan</a><br> Surabaya, East Java, Indonesia</em></p>
               <p>Scope of work :</p>
               <ol>
                 <li>Spatial database management (SQL-Based)</li>
@@ -168,7 +175,7 @@
             <div class="resume-item">
               <h4>Geographic Information System Officer</h4>
               <h5>Jan 2019 - Mar 2020</h5>
-              <p><em><img src="assets/img/about/SSMS.png" width="30"> PT. Sawit Sumbermas Sarana, Tbk. <br> Pulang Pisau, Central Kalimantan, Indonesia</em></p>
+              <p><em><a href="https://ssms.co.id/"><img src="assets/img/about/SSMS.png" width="30"> PT. Sawit Sumbermas Sarana, Tbk.</a><br> Pulang Pisau, Central Kalimantan, Indonesia</em></p>
               <p>Scope of work :</p>
               <ol>
                 <li>Spatial database management</li>
@@ -179,9 +186,9 @@
             </div><!-- End Resume Item -->
 
             <div class="resume-item">
-              <h4>Geographic Information System Officer</h4>
+              <h4>Geographic Information System Officer Trainee</h4>
               <h5>Oct 2018 - Jan 2019</h5>
-              <p><em><img src="assets/img/about/SSMS.png" width="30"> PT. Sawit Sumbermas Sarana, Tbk. <br> Pulang Pisau, Central Kalimantan, Indonesia</em></p>
+              <p><em><a href="https://ssms.co.id/"><img src="assets/img/about/SSMS.png" width="30"> PT. Sawit Sumbermas Sarana, Tbk.</a><br> Pulang Pisau, Central Kalimantan, Indonesia</em></p>
               <p>Assists senior staffs in probation period at :</p>
               <ol>
                 <li>Spatial database management</li>
@@ -194,14 +201,14 @@
             <div class="resume-item">
               <h4>Lab Assistant : GIS for Land Resources</h4>
               <h5>Feb 2017 - Jun 2017</h5>
-              <p><em><img src="assets/img/about/UB.jpg" width="30"> Brawijaya University <br> Malang, East Java, Indonesia</em></p>
+              <p><em><a href="https://www.ub.ac.id/"><img src="assets/img/about/UB.jpg" width="30"> Brawijaya University</a><br> Malang, East Java, Indonesia</em></p>
               <p>Responsible to taught GIS Application for Land Resources Management to 20 younger students in practice and examination.</p>
             </div><!-- End Resume Item -->
 
             <div class="resume-item">
               <h4>Internship Staff</h4>
               <h5>Aug 2015 - Dec 2015</h5>
-              <p><em><img src="assets/img/about/PERHUTANI.png" width="40"> Perum Perhutani <br> Malang, East Java, Indonesia</em></p>
+              <p><em><a href="https://www.perhutani.co.id/"><img src="assets/img/about/PERHUTANI.png" width="40"> Perum Perhutani</a><br> Malang, East Java, Indonesia</em></p>
               <p>Assist senior supervisor and field assistant to :</p>
               <ol>
                 <li>Supervise employees, and</li>
@@ -246,7 +253,7 @@
                 <img src="assets/img/portfolio/PORTFOLIO - PALM COUNTING CORRECTION.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>GIS Project 1</h4>
-                  <p>Palm Counting Project for PT. UTMU 2021</p>
+                  <p>Palm Counting Correction Process</p>
                   <a href="assets/img/portfolio/PORTFOLIO - PALM COUNTING CORRECTION.png" title="GIS Project 1" data-gallery="GIS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="palm-counting-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -258,7 +265,7 @@
                 <img src="assets/img/portfolio/PORTFOLIO - TRIMBLE ECOGNITION OPA_1.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>GIS Project 1</h4>
-                  <p>Palm Counting Project for PT. UTMU 2021</p>
+                  <p>Palm Counting Automation with OPA</p>
                   <a href="assets/img/portfolio/PORTFOLIO - TRIMBLE ECOGNITION OPA_1.png" title="GIS Project 1" data-gallery="GIS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="palm-counting-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -270,7 +277,7 @@
                 <img src="assets/img/portfolio/PORTFOLIO - TRIMBLE ECOGNITION OPA_2.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>GIS Project 1</h4>
-                  <p>Palm Counting Project for PT. UTMU 2021</p>
+                  <p>Palm Counting Automation with OPA</p>
                   <a href="assets/img/portfolio/PORTFOLIO - TRIMBLE ECOGNITION OPA_2.png" title="GIS Project 1" data-gallery="GIS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="palm-counting-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -282,7 +289,7 @@
                 <img src="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (PGADMIN).png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>DBMS Project 1</h4>
-                  <p>PT. UTMU SQL Database Development</p>
+                  <p>Spatial Database Management with PGAdmin</p>
                   <a href="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (PGADMIN).png" title="DBMS Project 1" data-gallery="DBMS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="pgsql-dbms-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -294,7 +301,7 @@
                 <img src="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (DBEAVER).png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>DBMS Project 1</h4>
-                  <p>PT. UTMU SQL Database Development</p>
+                  <p>Spatial Database Management with DBeaver</p>
                   <a href="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (DBEAVER).png" title="DBMS Project 1" data-gallery="DBMS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="pgsql-dbms-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -306,7 +313,7 @@
                 <img src="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (ADMINER PHP).png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>DBMS Project 1</h4>
-                  <p>PT. UTMU SQL Database Development</p>
+                  <p>Spatial Database Management with Adminer PHP</p>
                   <a href="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (ADMINER PHP).png" title="DBMS Project 1" data-gallery="DBMS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="pgsql-dbms-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -318,8 +325,20 @@
                 <img src="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_ARESTA.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>Webmap Project 1</h4>
-                  <p>PT. UTMU Webmap Development</p>
+                  <p>Aresta Map of PT. UTMU</p>
                   <a href="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_ARESTA.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_INFRASTRUCTURE.png" class="img-fluid" alt="" width="325.33">
+                <div class="portfolio-info">
+                  <h4>Webmap Project 1</h4>
+                  <p>Infrastructure Map of PT. UTMU</p>
+                  <a href="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_INFRASTRUCTURE.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
@@ -330,7 +349,7 @@
                 <img src="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_LOGIN PAGE.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>Webmap Project 1</h4>
-                  <p>PT. UTMU Webmap Development</p>
+                  <p>Webmap Login Page</p>
                   <a href="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_LOGIN PAGE.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -342,7 +361,7 @@
                 <img src="assets/img/portfolio/PORTFOLIO - CODING PROCESS WITH VSCODE.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>Webmap Project 1</h4>
-                  <p>PT. UTMU Webmap Development</p>
+                  <p>Coding Process with Visual Studio Code</p>
                   <a href="assets/img/portfolio/PORTFOLIO - CODING PROCESS WITH VSCODE.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -354,7 +373,7 @@
                 <img src="assets/img/portfolio/PORTFOLIO - GEOSERVER.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>Webmap Project 1</h4>
-                  <p>PT. UTMU Webmap Development</p>
+                  <p>Geoserver</p>
                   <a href="assets/img/portfolio/PORTFOLIO - GEOSERVER.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -366,7 +385,7 @@
                 <img src="assets/img/portfolio/PORTFOLIO - WEBMAP AND VSCODE.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>Webmap Project 1</h4>
-                  <p>PT. UTMU Webmap Development</p>
+                  <p>Webmap and Visual Studio Code Visualization</p>
                   <a href="assets/img/portfolio/PORTFOLIO - WEBMAP AND VSCODE.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -378,7 +397,7 @@
                 <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_1.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>Aerial Photo Project 1</h4>
-                  <p>Aerial Photo Project for PT. UTMU 2020</p>
+                  <p>Image Mosaicking Process with Agisoft Photoscan</p>
                   <a href="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_1.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="aerial-photo-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -390,7 +409,7 @@
                 <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_2.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>Aerial Photo Project 1</h4>
-                  <p>Aerial Photo Project for PT. UTMU 2020</p>
+                  <p>Image Mosaic in Agisoft Photoscan</p>
                   <a href="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_2.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="aerial-photo-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -402,7 +421,7 @@
                 <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_3.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>Aerial Photo Project 1</h4>
-                  <p>Aerial Photo Project for PT. UTMU 2020</p>
+                  <p>Image Mosaic in Global Mapper</p>
                   <a href="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_3.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="aerial-photo-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
@@ -416,73 +435,6 @@
       </div>
 
     </section><!-- /Portfolio Section -->
-
-    <!-- Services Section -->
-    <section id="services" class="services section">
-
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Services</h2>
-      </div><!-- End Section Title -->
-
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon flex-shrink-0"><i class="bi bi-briefcase"></i></div>
-            <div>
-              <h4 class="title"><a href="service-details.php" class="stretched-link">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-            </div>
-          </div>
-          <!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><i class="bi bi-card-checklist"></i></div>
-            <div>
-              <h4 class="title"><a href="service-details.php" class="stretched-link">Dolor Sitema</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon flex-shrink-0"><i class="bi bi-bar-chart"></i></div>
-            <div>
-              <h4 class="title"><a href="service-details.php" class="stretched-link">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="400">
-            <div class="icon flex-shrink-0"><i class="bi bi-binoculars"></i></div>
-            <div>
-              <h4 class="title"><a href="service-details.php" class="stretched-link">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="500">
-            <div class="icon flex-shrink-0"><i class="bi bi-brightness-high"></i></div>
-            <div>
-              <h4 class="title"><a href="service-details.php" class="stretched-link">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="600">
-            <div class="icon flex-shrink-0"><i class="bi bi-calendar4-week"></i></div>
-            <div>
-              <h4 class="title"><a href="service-details.php" class="stretched-link">Eiusmod Tempor</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
-            </div>
-          </div><!-- End Service Item -->
-
-        </div>
-
-      </div>
-
-    </section><!-- /Services Section -->
 
     <!-- Contact Section -->
     <section id="contact" class="contact section">
