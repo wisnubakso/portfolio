@@ -51,15 +51,15 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_1.png" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - PALM COUNTING CORRECTION.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_2.png" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - TRIMBLE ECOGNITION OPA_1.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_3.png" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - TRIMBLE ECOGNITION OPA_2.png" alt="">
                 </div>
 
               </div>
@@ -71,15 +71,15 @@
             <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
               <h3>Project information</h3>
               <ul>
-                <li><strong>Category</strong>: Aerial Photo Project </li>
+                <li><strong>Category</strong>: GIS Project </li>
                 <li><strong>Client</strong>: PT. Umaq Tukung Mandiri Utama (PT. WITA Internasional Bisnis Artisan)</li>
-                <li><strong>Project date</strong>: Nov 2020 - Feb 2021</li>
+                <li><strong>Project date</strong>: Mar 2021 - Apr 2021</li>
                 <!-- <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li> -->
               </ul>
             </div>
             <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
-              <h2>Aerial Photo Project for PT. UTMU 2020</h2>
-              <p>Aerial photo acquisition for PT. UTMU (1.300 Ha) with DJI Phantom 3, processed with Agisoft Photoscan. Completed within 4 months because this mission was held in rainy season.</p>
+              <h2>Palm Counting Project for PT. UTMU 2021</h2>
+              <p>Palm counting project for PT. UTMU, processed with Trimble E-Cognition. Completed within 1 months for 1.300 Ha of planted area.</p>
             </div>
           </div>
 

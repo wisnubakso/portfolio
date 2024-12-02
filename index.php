@@ -43,7 +43,7 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>March 5th, 1995</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="https://www.linkedin.com/in/wisnubhaskoro/">My Linkedin</a></span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="https://www.linkedin.com/in/wisnubhaskoro/">My Linkedin</a> ; <a href="https://github.com/wisnubakso/">My GitHub</a></span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span><a href="tel:+6285211220825">+62-852-1122-0825</a></span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Location:</strong> <span>Surabaya, East Java</span></li>
                 </ul>
@@ -234,20 +234,140 @@
           <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
             <li data-filter="*" class="filter-active">All</li>
             <li data-filter=".filter-gis">GIS</li>
-            <li data-filter=".filter-DBMS">Spatial Database Management</li>
-            <li data-filter=".filter-webgis">WebMap Development</li>
+            <li data-filter=".filter-dbms">Spatial Database Management</li>
+            <li data-filter=".filter-webmap">WebMap Development</li>
             <li data-filter=".filter-aerial-photo">Aerial Photo Project</li>
           </ul><!-- End Portfolio Filters -->
 
           <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
 
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-gis">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/PORTFOLIO - PALM COUNTING CORRECTION.png" class="img-fluid" alt="" width="325.33">
+                <div class="portfolio-info">
+                  <h4>GIS Project 1</h4>
+                  <p>Palm Counting Project for PT. UTMU 2021</p>
+                  <a href="assets/img/portfolio/PORTFOLIO - PALM COUNTING CORRECTION.png" title="GIS Project 1" data-gallery="GIS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="palm-counting-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-gis">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/PORTFOLIO - TRIMBLE ECOGNITION OPA_1.png" class="img-fluid" alt="" width="325.33">
+                <div class="portfolio-info">
+                  <h4>GIS Project 1</h4>
+                  <p>Palm Counting Project for PT. UTMU 2021</p>
+                  <a href="assets/img/portfolio/PORTFOLIO - TRIMBLE ECOGNITION OPA_1.png" title="GIS Project 1" data-gallery="GIS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="palm-counting-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-gis">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/PORTFOLIO - TRIMBLE ECOGNITION OPA_2.png" class="img-fluid" alt="" width="325.33">
+                <div class="portfolio-info">
+                  <h4>GIS Project 1</h4>
+                  <p>Palm Counting Project for PT. UTMU 2021</p>
+                  <a href="assets/img/portfolio/PORTFOLIO - TRIMBLE ECOGNITION OPA_2.png" title="GIS Project 1" data-gallery="GIS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="palm-counting-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-dbms">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (PGADMIN).png" class="img-fluid" alt="" width="325.33">
+                <div class="portfolio-info">
+                  <h4>DBMS Project 1</h4>
+                  <p>PT. UTMU SQL Database Development</p>
+                  <a href="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (PGADMIN).png" title="DBMS Project 1" data-gallery="DBMS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="pgsql-dbms-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-dbms">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (DBEAVER).png" class="img-fluid" alt="" width="325.33">
+                <div class="portfolio-info">
+                  <h4>DBMS Project 1</h4>
+                  <p>PT. UTMU SQL Database Development</p>
+                  <a href="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (DBEAVER).png" title="DBMS Project 1" data-gallery="DBMS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="pgsql-dbms-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-dbms">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (ADMINER PHP).png" class="img-fluid" alt="" width="325.33">
+                <div class="portfolio-info">
+                  <h4>DBMS Project 1</h4>
+                  <p>PT. UTMU SQL Database Development</p>
+                  <a href="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (ADMINER PHP).png" title="DBMS Project 1" data-gallery="DBMS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="pgsql-dbms-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_ARESTA.png" class="img-fluid" alt="" width="325.33">
+                <div class="portfolio-info">
+                  <h4>Webmap Project 1</h4>
+                  <p>PT. UTMU Webmap Development</p>
+                  <a href="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_ARESTA.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_LOGIN PAGE.png" class="img-fluid" alt="" width="325.33">
+                <div class="portfolio-info">
+                  <h4>Webmap Project 1</h4>
+                  <p>PT. UTMU Webmap Development</p>
+                  <a href="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_LOGIN PAGE.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/PORTFOLIO - CODING PROCESS WITH VSCODE.png" class="img-fluid" alt="" width="325.33">
+                <div class="portfolio-info">
+                  <h4>Webmap Project 1</h4>
+                  <p>PT. UTMU Webmap Development</p>
+                  <a href="assets/img/portfolio/PORTFOLIO - CODING PROCESS WITH VSCODE.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/PORTFOLIO - GEOSERVER.png" class="img-fluid" alt="" width="325.33">
+                <div class="portfolio-info">
+                  <h4>Webmap Project 1</h4>
+                  <p>PT. UTMU Webmap Development</p>
+                  <a href="assets/img/portfolio/PORTFOLIO - CODING PROCESS WITH VSCODE.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-aerial-photo">
               <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/PORTOFOLIO - AGISOFT PHOTOSCAN_1.png" class="img-fluid" alt="" width="325.33">
+                <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_1.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>Aerial Photo Project 1</h4>
                   <p>Aerial Photo Project for PT. UTMU 2020</p>
-                  <a href="assets/img/portfolio/PORTOFOLIO - AGISOFT PHOTOSCAN_1.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_1.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="aerial-photo-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
@@ -255,11 +375,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-aerial-photo">
               <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/PORTOFOLIO - AGISOFT PHOTOSCAN_2.png" class="img-fluid" alt="" width="325.33">
+                <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_2.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>Aerial Photo Project 1</h4>
                   <p>Aerial Photo Project for PT. UTMU 2020</p>
-                  <a href="assets/img/portfolio/PORTOFOLIO - AGISOFT PHOTOSCAN_2.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_2.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="aerial-photo-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
@@ -267,11 +387,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-aerial-photo">
               <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/PORTOFOLIO - AGISOFT PHOTOSCAN_3.png" class="img-fluid" alt="" width="325.33">
+                <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_3.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>Aerial Photo Project 1</h4>
                   <p>Aerial Photo Project for PT. UTMU 2020</p>
-                  <a href="assets/img/portfolio/PORTOFOLIO - AGISOFT PHOTOSCAN_3.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_3.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="aerial-photo-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
