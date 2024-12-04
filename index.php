@@ -382,11 +382,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
               <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP AND VSCODE.png" class="img-fluid" alt="" width="325.33">
+                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP INTEGRATION.png" class="img-fluid" alt="" width="325.33">
                 <div class="portfolio-info">
                   <h4>Webmap Project 1</h4>
-                  <p>Webmap and Visual Studio Code Visualization</p>
-                  <a href="assets/img/portfolio/PORTFOLIO - WEBMAP AND VSCODE.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <p>Webmap App Integration</p>
+                  <a href="assets/img/portfolio/PORTFOLIO - WEBMAP INTEGRATION.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>

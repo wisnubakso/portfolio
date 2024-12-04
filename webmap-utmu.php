@@ -71,7 +71,7 @@
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - WEBMAP AND VSCODE.png" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - WEBMAP INTEGRATION.png" alt="">
                 </div>
 
               </div>
