@@ -43,8 +43,8 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>March 5th, 1995</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="https://www.linkedin.com/in/wisnubhaskoro/">My Linkedin</a> ; <a href="https://github.com/wisnubakso/">My GitHub</a></span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span><a href="tel:+6285211220825">+62-852-1122-0825</a></span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="https://www.linkedin.com/in/wisnubhaskoro/" target="_blank">My Linkedin</a> ; <a href="https://github.com/wisnubakso/" target="_blank">My GitHub</a></span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span><a href="tel:+6285211220825" target="_blank">+62-852-1122-0825</a></span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Location:</strong> <span>Surabaya, East Java</span></li>
                 </ul>
               </div>
@@ -52,7 +52,7 @@
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>29</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><a href="mailto:wisnu.bhaskoro@gmail.com">wisnu.bhaskoro@gmail.com</a></span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><a href="mailto:wisnu.bhaskoro@gmail.com" target="_blank">wisnu.bhaskoro@gmail.com</a></span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
               </div>
@@ -140,7 +140,7 @@
             <div class="resume-item">
               <h4>Bachelor of Agriculture (Soil Sciences)</h4>
               <h5>2012 - 2017</h5>
-              <p><em><a href="https://www.ub.ac.id/"><img src="assets/img/about/UB.jpg" width="30"> Brawijaya University</a><br> Malang, East Java, Indonesia</em></p>
+              <p><em><a href="https://www.ub.ac.id/" target="_blank"><img src="assets/img/about/UB.jpg" width="30"> Brawijaya University</a><br> Malang, East Java, Indonesia</em></p>
               <p>Activities and societies: Student Association, Assistant Lecturer <br><br>
                 My final thesis for my study is about estimating the spread of soil moisture and drought potency in Bojonegoro District, East Java using the combination of remote sensing and spatial analysis. Based on my research, I have found that Bojonegoro District has medium to high drought potency.</p>
             </div><!-- Edn Resume Item -->
@@ -149,7 +149,7 @@
             <div class="resume-item">
               <h4>WebGIS Basic : HTML, CSS, Javascript and Leaflet JS</h4>
               <h5>Jun 2024</h5>
-              <p><em><a href="https://www.sinaugis.com/"><img src="assets/img/about/SINAUGIS.png" width="30"> SinauGIS</a><br> Yogyakarta, Special Region of Yogyakarta, Indonesia</em></p>
+              <p><em><a href="https://www.sinaugis.com/" target="_blank"><img src="assets/img/about/SINAUGIS.png" width="30"> SinauGIS</a><br> Yogyakarta, Special Region of Yogyakarta, Indonesia</em></p>
               <p>Studying the basic of HTML, CSS, Javascript and utilization of Leaflet JS to build webmap applications.</p>
             </div><!-- Edn Resume Item -->
 
@@ -161,7 +161,7 @@
             <div class="resume-item">
               <h4>Geographic Information System Officer</h4>
               <h5>Mar 2020 - Present</h5>
-              <p><em><a href="https://ptwita.com"><img src="assets/img/about/WITA.jpg" width="30"> PT. WITA Internasional Bisnis Artisan</a><br> Surabaya, East Java, Indonesia</em></p>
+              <p><em><a href="https://ptwita.com" target="_blank"><img src="assets/img/about/WITA.jpg" width="30"> PT. WITA Internasional Bisnis Artisan</a><br> Surabaya, East Java, Indonesia</em></p>
               <p>Scope of work :</p>
               <ol>
                 <li>Spatial database management (SQL-Based)</li>
@@ -175,7 +175,7 @@
             <div class="resume-item">
               <h4>Geographic Information System Officer</h4>
               <h5>Jan 2019 - Mar 2020</h5>
-              <p><em><a href="https://ssms.co.id/"><img src="assets/img/about/SSMS.png" width="30"> PT. Sawit Sumbermas Sarana, Tbk.</a><br> Pulang Pisau, Central Kalimantan, Indonesia</em></p>
+              <p><em><a href="https://ssms.co.id/" target="_blank"><img src="assets/img/about/SSMS.png" width="30"> PT. Sawit Sumbermas Sarana, Tbk.</a><br> Pulang Pisau, Central Kalimantan, Indonesia</em></p>
               <p>Scope of work :</p>
               <ol>
                 <li>Spatial database management</li>
@@ -188,7 +188,7 @@
             <div class="resume-item">
               <h4>Geographic Information System Officer Trainee</h4>
               <h5>Oct 2018 - Jan 2019</h5>
-              <p><em><a href="https://ssms.co.id/"><img src="assets/img/about/SSMS.png" width="30"> PT. Sawit Sumbermas Sarana, Tbk.</a><br> Pulang Pisau, Central Kalimantan, Indonesia</em></p>
+              <p><em><a href="https://ssms.co.id/" target="_blank"><img src="assets/img/about/SSMS.png" width="30"> PT. Sawit Sumbermas Sarana, Tbk.</a><br> Pulang Pisau, Central Kalimantan, Indonesia</em></p>
               <p>Assists senior staffs in probation period at :</p>
               <ol>
                 <li>Spatial database management</li>
@@ -201,14 +201,14 @@
             <div class="resume-item">
               <h4>Lab Assistant : GIS for Land Resources</h4>
               <h5>Feb 2017 - Jun 2017</h5>
-              <p><em><a href="https://www.ub.ac.id/"><img src="assets/img/about/UB.jpg" width="30"> Brawijaya University</a><br> Malang, East Java, Indonesia</em></p>
+              <p><em><a href="https://www.ub.ac.id/" target="_blank"><img src="assets/img/about/UB.jpg" width="30"> Brawijaya University</a><br> Malang, East Java, Indonesia</em></p>
               <p>Responsible to taught GIS Application for Land Resources Management to 20 younger students in practice and examination.</p>
             </div><!-- End Resume Item -->
 
             <div class="resume-item">
               <h4>Internship Staff</h4>
               <h5>Aug 2015 - Dec 2015</h5>
-              <p><em><a href="https://www.perhutani.co.id/"><img src="assets/img/about/PERHUTANI.png" width="40"> Perum Perhutani</a><br> Malang, East Java, Indonesia</em></p>
+              <p><em><a href="https://www.perhutani.co.id/" target="_blank"><img src="assets/img/about/PERHUTANI.png" width="40"> Perum Perhutani</a><br> Malang, East Java, Indonesia</em></p>
               <p>Assist senior supervisor and field assistant to :</p>
               <ol>
                 <li>Supervise employees, and</li>
@@ -449,7 +449,7 @@
         <div class="info-wrap">
 
           <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <a href="https://maps.app.goo.gl/5oQBCq2nNCRMCKL69"><i class="bi bi-geo-alt flex-shrink-0"></i></a>
+            <a href="https://maps.app.goo.gl/5oQBCq2nNCRMCKL69" target="_blank"><i class="bi bi-geo-alt flex-shrink-0"></i></a>
             <div>
               <h3>Address</h3>
               <p>Jl. Ahmad Yani No. 317, Kelurahan Dukuh Menanggal, Kecamatan Gayungan, Kota Surabaya, 60234</p>
@@ -457,7 +457,7 @@
           </div><!-- End Info Item -->
 
           <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
-            <a href="tel:+6285211220825"><i class="bi bi-telephone flex-shrink-0"></i></a>
+            <a href="tel:+6285211220825" target="_blank"><i class="bi bi-telephone flex-shrink-0"></i></a>
             <div>
               <h3>Call me</h3>
               <p>+62-852-1122-0825</p>
@@ -465,7 +465,7 @@
           </div><!-- End Info Item -->
 
           <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
-            <a href="https://wa.me/6285211220825"><i class="bi bi-whatsapp flex-shrink-0"></i></i></a>
+            <a href="https://wa.me/6285211220825" target="_blank"><i class="bi bi-whatsapp flex-shrink-0"></i></i></a>
             <div>
               <h3>Message me</h3>
               <p>+62-852-1122-0825</p>
@@ -473,7 +473,7 @@
           </div><!-- End Info Item -->
 
           <div class=" info-item d-flex" data-aos="fade-up" data-aos-delay="400">
-            <a href="mailto:wisnu.bhaskoro@gmail.com"><i class="bi bi-envelope flex-shrink-0"></i></a>
+            <a href="mailto:wisnu.bhaskoro@gmail.com" target="_blank"><i class="bi bi-envelope flex-shrink-0"></i></a>
             <div>
               <h3>Email me</h3>
               <p>wisnu.bhaskoro@gmail.com</p>
