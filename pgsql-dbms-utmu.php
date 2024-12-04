@@ -59,7 +59,7 @@
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (ADMINER).png" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (ADMINER PHP).png" alt="">
                 </div>
 
               </div>
