@@ -51,27 +51,15 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_ARESTA.png" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_1.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_INFRASTRUCTURE.png" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_2.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_LOGIN PAGE.png" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - CODING PROCESS WITH VSCODE.png" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - GEOSERVER.png" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - WEBMAP INTEGRATION.png" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_3.png" alt="">
                 </div>
 
               </div>
@@ -83,15 +71,15 @@
             <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
               <h3>Project information</h3>
               <ul>
-                <li><strong>Category</strong>: Webmap Project </li>
-                <li><strong>Client</strong>: PT. Umaq Tukung Mandiri Utama (PT. WITA Internasional Bisnis Artisan)</li>
-                <li><strong>Project date</strong>: Jun 2024 - Present</li>
+                <li><strong>Category</strong>: Aerial Photo Project </li>
+                <li><strong>Client</strong>: Private Company</li>
+                <li><strong>Project date</strong>: Nov 2020 - Feb 2021</li>
                 <!-- <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li> -->
               </ul>
             </div>
             <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
-              <h2>PT. UTMU Webmap Development</h2>
-              <p>Integrating PgSQL-Geoserver-Leaflet to develop Webmap-WebGIS for PT. UTMU. This project is still continuing to this day until Webmap publishment stage.</p>
+              <h2>Aerial Photo Project </h2>
+              <p>Aerial photo acquisition for a private company (1.300 Ha) with DJI Phantom 3, processed with Agisoft Photoscan. Completed within 4 months because this mission was held in rainy season.</p>
             </div>
           </div>
 

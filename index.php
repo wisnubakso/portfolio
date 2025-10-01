@@ -268,7 +268,7 @@
                                     <h4>GIS Project 1</h4>
                                     <p>Palm Counting Correction Process</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - PALM COUNTING CORRECTION.png" title="GIS Project 1" data-gallery="GIS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="palm-counting-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="palm-counting-mar-2021.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -280,7 +280,7 @@
                                     <h4>GIS Project 1</h4>
                                     <p>Palm Counting Automation with OPA</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - TRIMBLE ECOGNITION OPA_1.png" title="GIS Project 1" data-gallery="GIS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="palm-counting-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="palm-counting-mar-2021.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -292,7 +292,7 @@
                                     <h4>GIS Project 1</h4>
                                     <p>Palm Counting Automation with OPA</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - TRIMBLE ECOGNITION OPA_2.png" title="GIS Project 1" data-gallery="GIS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="palm-counting-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="palm-counting-mar-2021.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -304,7 +304,7 @@
                                     <h4>DBMS Project 1</h4>
                                     <p>Spatial Database Management with PGAdmin</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (PGADMIN).png" title="DBMS Project 1" data-gallery="DBMS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="pgsql-dbms-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="pgsql-dbms-jun-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -316,7 +316,7 @@
                                     <h4>DBMS Project 1</h4>
                                     <p>Spatial Database Management with DBeaver</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (DBEAVER).png" title="DBMS Project 1" data-gallery="DBMS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="pgsql-dbms-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="pgsql-dbms-jun-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -328,7 +328,7 @@
                                     <h4>DBMS Project 1</h4>
                                     <p>Spatial Database Management with Adminer PHP</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (ADMINER PHP).png" title="DBMS Project 1" data-gallery="DBMS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="pgsql-dbms-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="pgsql-dbms-jun-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -340,7 +340,7 @@
                                     <h4>Webmap Project 1</h4>
                                     <p>Aresta Map of PT. UTMU</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_ARESTA.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="webmap-jun-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -352,7 +352,7 @@
                                     <h4>Webmap Project 1</h4>
                                     <p>Infrastructure Map of PT. UTMU</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_INFRASTRUCTURE.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="webmap-jun-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -364,7 +364,7 @@
                                     <h4>Webmap Project 1</h4>
                                     <p>Webmap Login Page</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_LOGIN PAGE.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="webmap-jun-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -376,7 +376,7 @@
                                     <h4>Webmap Project 1</h4>
                                     <p>Coding Process with Visual Studio Code</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - CODING PROCESS WITH VSCODE.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="webmap-jun-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -388,7 +388,7 @@
                                     <h4>Webmap Project 1</h4>
                                     <p>Geoserver</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - GEOSERVER.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="webmap-jun-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -400,7 +400,7 @@
                                     <h4>Webmap Project 1</h4>
                                     <p>Webmap App Integration</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - WEBMAP INTEGRATION.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="webmap-utmu.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="webmap-jun-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -412,7 +412,7 @@
                                     <h4>Aerial Photo Project 1</h4>
                                     <p>Image Mosaicking Process with Agisoft Photoscan</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_1.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="aerial-photo-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="aerial-photo-nov-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -424,7 +424,7 @@
                                     <h4>Aerial Photo Project 1</h4>
                                     <p>Image Mosaic in Agisoft Photoscan</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_2.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="aerial-photo-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="aerial-photo-nov-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -436,7 +436,7 @@
                                     <h4>Aerial Photo Project 1</h4>
                                     <p>Image Mosaic in Global Mapper</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_3.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="aerial-photo-utmu-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="aerial-photo-nov-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
