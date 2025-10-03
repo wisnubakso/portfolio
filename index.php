@@ -44,13 +44,13 @@
                                 <ul>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>March 5th, 1995</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="https://www.linkedin.com/in/wisnubhaskoro/" target="_blank">My Linkedin</a> ; <a href="https://github.com/wisnubakso/" target="_blank">My GitHub</a></span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span><a href="tel:+6285211220825" target="_blank">+62-852-1122-0825</a></span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>WA/Phone:</strong> <span><a href="https://wa.me/6285211220825" target="_blank">+62-852-1122-0825</a></span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Location:</strong> <span>Surabaya, East Java</span></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6">
                                 <ul>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>29</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><a href="mailto:wisnu.bhaskoro@gmail.com" target="_blank">wisnu.bhaskoro@gmail.com</a></span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
@@ -299,11 +299,11 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-dbms">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (PGADMIN).png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - SQL DB MANAGEMENT WITH ADMINER.png" class="img-fluid" alt="" width="325.33">
                                 <div class="portfolio-info">
                                     <h4>DBMS Project 1</h4>
                                     <p>Spatial Database Management with PGAdmin</p>
-                                    <a href="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (PGADMIN).png" title="DBMS Project 1" data-gallery="DBMS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="assets/img/portfolio/PORTFOLIO - SQL DB MANAGEMENT WITH ADMINER.png" title="DBMS Project 1" data-gallery="DBMS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="pgsql-dbms-jun-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
@@ -311,11 +311,11 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-dbms">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (DBEAVER).png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - SQL DB MANAGEMENT WITH DBEAVER.png" class="img-fluid" alt="" width="325.33">
                                 <div class="portfolio-info">
                                     <h4>DBMS Project 1</h4>
                                     <p>Spatial Database Management with DBeaver</p>
-                                    <a href="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (DBEAVER).png" title="DBMS Project 1" data-gallery="DBMS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="assets/img/portfolio/PORTFOLIO - SQL DB MANAGEMENT WITH DBEAVER.png" title="DBMS Project 1" data-gallery="DBMS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="pgsql-dbms-jun-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
@@ -323,11 +323,11 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-dbms">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (ADMINER PHP).png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - SQL DB MANAGEMENT WITH ADMINER.png" class="img-fluid" alt="" width="325.33">
                                 <div class="portfolio-info">
                                     <h4>DBMS Project 1</h4>
                                     <p>Spatial Database Management with Adminer PHP</p>
-                                    <a href="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (ADMINER PHP).png" title="DBMS Project 1" data-gallery="DBMS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="assets/img/portfolio/PORTFOLIO - SQL DB MANAGEMENT WITH ADMINER.png" title="DBMS Project 1" data-gallery="DBMS Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="pgsql-dbms-jun-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
@@ -335,11 +335,11 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_ARESTA.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP - PAGE 1.png" class="img-fluid" alt="" width="325.33">
                                 <div class="portfolio-info">
                                     <h4>Webmap Project 1</h4>
-                                    <p>Aresta Map of PT. UTMU</p>
-                                    <a href="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_ARESTA.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <p>Webmap - Page 1</p>
+                                    <a href="assets/img/portfolio/PORTFOLIO - WEBMAP - PAGE 1.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="webmap-jun-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
@@ -347,11 +347,11 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_INFRASTRUCTURE.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP - PAGE 2.png" class="img-fluid" alt="" width="325.33">
                                 <div class="portfolio-info">
                                     <h4>Webmap Project 1</h4>
-                                    <p>Infrastructure Map of PT. UTMU</p>
-                                    <a href="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_INFRASTRUCTURE.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <p>Webmap - Page 2</p>
+                                    <a href="assets/img/portfolio/PORTFOLIO - WEBMAP - PAGE 2.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="webmap-jun-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
@@ -359,11 +359,11 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_LOGIN PAGE.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP LOGIN PAGE.png" class="img-fluid" alt="" width="325.33">
                                 <div class="portfolio-info">
                                     <h4>Webmap Project 1</h4>
                                     <p>Webmap Login Page</p>
-                                    <a href="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_LOGIN PAGE.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="assets/img/portfolio/PORTFOLIO - WEBMAP LOGIN PAGE.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="webmap-jun-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
@@ -395,11 +395,11 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP INTEGRATION.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - SQL-GEOSERVER-WEBMAP INTEGRATION.png" class="img-fluid" alt="" width="325.33">
                                 <div class="portfolio-info">
                                     <h4>Webmap Project 1</h4>
                                     <p>Webmap App Integration</p>
-                                    <a href="assets/img/portfolio/PORTFOLIO - WEBMAP INTEGRATION.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="assets/img/portfolio/PORTFOLIO - SQL-GEOSERVER-WEBMAP INTEGRATION.png" title="Webmap Project 1" data-gallery="Webmap Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="webmap-jun-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
@@ -412,7 +412,7 @@
                                     <h4>Aerial Photo Project 1</h4>
                                     <p>Image Mosaicking Process with Agisoft Photoscan</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_1.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="aerial-photo-nov-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="aerial-photo-nov-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -424,7 +424,7 @@
                                     <h4>Aerial Photo Project 1</h4>
                                     <p>Image Mosaic in Agisoft Photoscan</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_2.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="aerial-photo-nov-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="aerial-photo-nov-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->
@@ -436,7 +436,7 @@
                                     <h4>Aerial Photo Project 1</h4>
                                     <p>Image Mosaic in Global Mapper</p>
                                     <a href="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_3.png" title="Aerial Photo Project 1" data-gallery="Aerial Photo Project 1" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="aerial-photo-nov-2024.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a href="aerial-photo-nov-2020.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div><!-- End Portfolio Item -->

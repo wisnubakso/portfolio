@@ -51,15 +51,15 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (PGADMIN).png" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - SQL DB MANAGEMENT WITH PGADMIN.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (DBEAVER).png" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - SQL DB MANAGEMENT WITH DBEAVER.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - SQL DATABASE MANAGEMENT (ADMINER PHP).png" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - SQL DB MANAGEMENT WITH ADMINER.png" alt="">
                 </div>
 
               </div>

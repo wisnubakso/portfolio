@@ -51,19 +51,19 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_ARESTA.png" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - WEBMAP - PAGE 1.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_INFRASTRUCTURE.png" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - WEBMAP - PAGE 2.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - WEBMAP UTMU_LOGIN PAGE.png" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - WEBMAP LOGIN PAGE.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - CODING PROCESS WITH VSCODE.png" alt="">
+                  <img src="assets/img/portfolio/CODING WITH VISUAL STUDIO CODE.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
@@ -71,7 +71,7 @@
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/PORTFOLIO - WEBMAP INTEGRATION.png" alt="">
+                  <img src="assets/img/portfolio/PORTFOLIO - SQL-GEOSERVER-WEBMAP INTEGRATION.png" alt="">
                 </div>
 
               </div>
