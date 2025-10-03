@@ -52,7 +52,7 @@
                                 <ul>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><a href="mailto:wisnu.bhaskoro@gmail.com" target="_blank">wisnu.bhaskoro@gmail.com</a></span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><a href="mailto:founder01@mapniac.com" target="_blank">founder01@mapniac.com</a></span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                                 </ul>
                             </div>
@@ -459,42 +459,111 @@
 
             <div class="container" data-aos="fade-up" data-aos-delay="100">
 
-                <div class="info-wrap">
-
-                    <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
-                        <a href="https://maps.app.goo.gl/5oQBCq2nNCRMCKL69" target="_blank"><i class="bi bi-geo-alt flex-shrink-0"></i></a>
-                        <div>
-                            <h3>Address</h3>
-                            <p>Jl. Ahmad Yani No. 317, Kelurahan Dukuh Menanggal, Kecamatan Gayungan, Kota Surabaya, 60234</p>
+                <div class="row gy-4">
+                    <div class="col-lg-5">
+                        <div class="info-wrap">
+                            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+                                <a href="https://maps.app.goo.gl/5oQBCq2nNCRMCKL69" target="_blank"><i class="bi bi-geo-alt flex-shrink-0"></i></a>
+                                <div>
+                                    <h3>Address</h3>
+                                    <p>Perum Bluru Permai, Jl. Ikan Sembilang II, Blok HQ-06, Bluru Kidul, Sidoarjo, Sidoarjo Regency, East Java, 61233</p>
+                                </div>
+                            </div><!-- End Info Item -->
+                            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+                                <a href="tel:+6285211220825" target="_blank"><i class="bi bi-telephone flex-shrink-0"></i></a>
+                                <div>
+                                    <h3>Call me</h3>
+                                    <p>+62-852-1122-0825</p>
+                                </div>
+                            </div><!-- End Info Item -->
+                            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+                                <a href="https://wa.me/6285211220825" target="_blank"><i class="bi bi-whatsapp flex-shrink-0"></i></i></a>
+                                <div>
+                                    <h3>Message me</h3>
+                                    <p>+62-852-1122-0825</p>
+                                </div>
+                            </div><!-- End Info Item -->
+                            <div class=" info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+                                <a href="mailto:founder01@mapniac.com" target="_blank"><i class="bi bi-envelope flex-shrink-0"></i></a>
+                                <div>
+                                    <h3>Email me</h3>
+                                    <p>founder01@mapniac.com</p>
+                                </div>
+                            </div><!-- End Info Item -->
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4733.925664006467!2d112.73198807577901!3d-7.454307673468183!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7e797fa701b99%3A0xe0a8902bff9e1dd2!2sTara%20Leathergoods!5e1!3m2!1sen!2sid!4v1759484316281!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
-                    </div><!-- End Info Item -->
+                    </div>
+                    <div class="col-lg-7">
+                        <form
+                            action="forms/contact.php"
+                            method="post"
+                            class="php-email-form"
+                            data-aos="fade-up"
+                            data-aos-delay="200">
+                            <div class="row gy-4">
+                                <div class="col-md-6">
+                                    <label for="name-field" class="pb-2">Your Name</label>
+                                    <input
+                                        type="text"
+                                        name="name"
+                                        id="name-field"
+                                        class="form-control"
+                                        required="" />
+                                    <div class="validate"></div>
+                                </div>
 
-                    <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
-                        <a href="tel:+6285211220825" target="_blank"><i class="bi bi-telephone flex-shrink-0"></i></a>
-                        <div>
-                            <h3>Call me</h3>
-                            <p>+62-852-1122-0825</p>
-                        </div>
-                    </div><!-- End Info Item -->
+                                <div class="col-md-6">
+                                    <label for="email-field" class="pb-2">Your Email</label>
+                                    <input
+                                        type="email"
+                                        class="form-control"
+                                        name="email"
+                                        id="email-field"
+                                        required="" />
+                                    <div class="validate"></div>
+                                </div>
 
-                    <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
-                        <a href="https://wa.me/6285211220825" target="_blank"><i class="bi bi-whatsapp flex-shrink-0"></i></i></a>
-                        <div>
-                            <h3>Message me</h3>
-                            <p>+62-852-1122-0825</p>
-                        </div>
-                    </div><!-- End Info Item -->
+                                <div class="col-md-12">
+                                    <label for="subject-field" class="pb-2">Subject</label>
+                                    <input
+                                        type="text"
+                                        class="form-control"
+                                        name="subject"
+                                        id="subject-field"
+                                        required="" />
+                                    <div class="validate"></div>
+                                </div>
 
-                    <div class=" info-item d-flex" data-aos="fade-up" data-aos-delay="400">
-                        <a href="mailto:wisnu.bhaskoro@gmail.com" target="_blank"><i class="bi bi-envelope flex-shrink-0"></i></a>
-                        <div>
-                            <h3>Email me</h3>
-                            <p>wisnu.bhaskoro@gmail.com</p>
-                        </div>
-                    </div><!-- End Info Item -->
+                                <div class="col-md-12">
+                                    <label for="message-field" class="pb-2">Message</label>
+                                    <textarea
+                                        class="form-control"
+                                        name="message"
+                                        rows="10"
+                                        id="message-field"
+                                        required=""></textarea>
+                                    <div class="validate"></div>
+                                </div>
 
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d699.522583178777!2d112.73025518869674!3d-7.342970159228887!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fb4e7eb81003%3A0xcbf85ede8e11aac9!2sAvian%20Brands%20Office!5e0!3m2!1sen!2sid!4v1732778711930!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                <div class="form-check form-group ps-0">
+                                    <input id="privacy-policy" type="checkbox" name="privacy" value="accept" required>
+                                    <label class="form-check-label ps-1" for="privacy-policy">
+                                        Accept our <a href="terms.html">terms of service</a> and <a href="privacy.html">privacy policy</a>
+                                    </label>
+                                </div>
 
+                                <div class="col-md-12 text-center">
+                                    <div class="loading">Loading</div>
+                                    <div class="error-message"></div>
+                                    <div class="sent-message">
+                                        Your message has been sent. Thank you!
+                                    </div>
+
+                                    <button type="submit">Send Message</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
                 </div>
 
             </div>
