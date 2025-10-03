@@ -465,8 +465,8 @@
                             <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
                                 <a href="https://maps.app.goo.gl/5oQBCq2nNCRMCKL69" target="_blank"><i class="bi bi-geo-alt flex-shrink-0"></i></a>
                                 <div>
-                                    <h3>Address</h3>
-                                    <p>Perum Bluru Permai, Jl. Ikan Sembilang II, Blok HQ-06, Bluru Kidul, Sidoarjo, Sidoarjo Regency, East Java, 61233</p>
+                                    <h3>My location</h3>
+                                    <p>Sidoarjo, Sidoarjo Regency, East Java Province, Indonesia</p>
                                 </div>
                             </div><!-- End Info Item -->
                             <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
@@ -490,7 +490,7 @@
                                     <p>founder01@mapniac.com</p>
                                 </div>
                             </div><!-- End Info Item -->
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4733.925664006467!2d112.73198807577901!3d-7.454307673468183!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7e797fa701b99%3A0xe0a8902bff9e1dd2!2sTara%20Leathergoods!5e1!3m2!1sen!2sid!4v1759484316281!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d75084.67196299437!2d112.70682135!3d-7.447240600000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7e1343346658b%3A0x96cbcb91139dab36!2sSidoarjo%2C%20Sidoarjo%20Regency%2C%20East%20Java!5e1!3m2!1sen!2sid!4v1759503593959!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                     <div class="col-lg-7">
