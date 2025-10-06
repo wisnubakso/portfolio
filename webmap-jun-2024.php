@@ -90,7 +90,7 @@
               </ul>
             </div>
             <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
-              <h2>Private Company</h2>
+              <h2>Webmap Development</h2>
               <p>Integrating PostgreSQL-Geoserver-Leaflet to develop Webmap-WebGIS with Laravel framework for a private company.</p>
             </div>
           </div>
