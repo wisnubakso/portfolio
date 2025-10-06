@@ -16,7 +16,7 @@
 
             <div class="container" data-aos="fade-up" data-aos-delay="100">
                 <h2>Wisnu Agung Bhaskoro</h2>
-                <p>Specialization : <span class="typed" data-typed-items="GIS Analyst, GIS Programmer, Drone Pilot, Raster Analyst">GIS Analyst</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
+                <p>Specialization : <span class="typed" data-typed-items="GIS Analyst, GIS Developer, Drone Pilot and Image Analyst">GIS Analyst</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
             </div>
 
         </section><!-- /Hero Section -->
@@ -37,7 +37,7 @@
                         <img src="assets/img/profile-wisnu.png" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-8 content">
-                        <h2>GIS Analyst - Programmer</h2>
+                        <h2>GIS Analyst & Developer</h2>
                         <br>
                         <div class="row">
                             <div class="col-lg-6">
