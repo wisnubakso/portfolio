@@ -10,13 +10,26 @@
     <main class="main">
 
         <!-- Hero Section -->
-        <section id="hero" class="hero section dark-background">
+        <section id="hero" class="hero section light-background">
 
-            <img src="assets/img/hero-wisnu.jpeg" alt="" data-aos="fade-in" class="">
+            <img src="assets/img/hero-wisnu.jpeg" alt="" />
 
-            <div class="container" data-aos="fade-up" data-aos-delay="100">
-                <h2>Wisnu Agung Bhaskoro</h2>
-                <p>Specialization : <span class="typed" data-typed-items="GIS Analyst, GIS Developer, Drone Pilot and Image Analyst">GIS Analyst</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
+            <div class="container" data-aos="zoom-out">
+                <div class="row justify-content-center">
+                    <div class="col-lg-9">
+                        <h2>Wisnu Agung Bhaskoro</h2>
+                        <p>
+                            Specialization :
+                            <span class="typed" data-typed-items="GIS Analyst, GIS Developer, Drone Pilot and Image Analyst">GIS Analyst</span>
+                            <span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span>
+                        </p>
+                        <div class="social-links">
+                            <a href="https://wa.me/6285211220825" target="_blank" class="whatsapp"><i class="bi bi-whatsapp"></i></a>
+                            <a href="https://www.linkedin.com/in/wisnubhaskoro/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                            <a href="https://github.com/wisnubakso/" target="_blank" class="github"><i class="bi bi-github"></i></a>
+                        </div>
+                    </div>
+                </div>
             </div>
 
         </section><!-- /Hero Section -->
@@ -152,18 +165,64 @@
                                 My final thesis for my study is about estimating the spread of soil moisture and drought potency in Bojonegoro District, East Java using the combination of remote sensing and spatial analysis. Based on my research, I have found that Bojonegoro District has medium to high drought potency.</p>
                         </div><!-- Edn Resume Item -->
 
-                        <h3 class="resume-title">Course</h3>
+                        <h3 class="resume-title">Course and Certification</h3>
                         <div class="resume-item">
-                            <h4>WebGIS Basic : HTML, CSS, Javascript and Leaflet JS</h4>
-                            <h5>Jun 2024</h5>
-                            <p><em><a href="https://www.sinaugis.com/" target="_blank"><img src="assets/img/about/SINAUGIS.png" width="30"> SinauGIS</a><br> Yogyakarta, Special Region of Yogyakarta, Indonesia</em></p>
-                            <p>Studying the basic of HTML, CSS, Javascript and utilization of Leaflet JS to build webmap applications.</p>
+                            <h4>Drone Safety, Ethics Training, Basic Drone Maneuvers</h4>
+                            <h5>Oct 2025</h5>
+                            <p><em><a href="https://www.apdi.id/" target="_blank"><img src="assets/img/about/APDI.png" width="30"> Asosiasi Pilot Drone Indonesia</a>
+                                    <br>
+                                    Credential ID 12611 - 2025
+                                    <br>
+                                    Surabaya, East Java, Indonesia
+                                </em></p>
+                            <p>Remote Pilot Certification</p>
                         </div><!-- Edn Resume Item -->
                         <div class="resume-item">
                             <h4>WebGIS Enterprise : PostgreSQL, Geoserver and Laravel</h4>
                             <h5>May 2025</h5>
-                            <p><em><a href="https://www.sinaugis.com/" target="_blank"><img src="assets/img/about/SINAUGIS.png" width="30"> SinauGIS</a><br> Yogyakarta, Special Region of Yogyakarta, Indonesia</em></p>
+                            <p><em><a href="https://www.sinaugis.com/" target="_blank"><img src="assets/img/about/SINAUGIS.png" width="30"> SinauGIS</a>
+                                    <br>
+                                    Credential ID 01/SG 154/V/2025
+                                    <br>
+                                    Yogyakarta, Special Region of Yogyakarta, Indonesia
+                                </em></p>
                             <p>Studying utilization of PostgreSQL, Geoserver and Laravel to build webmap applications.</p>
+                        </div><!-- Edn Resume Item -->
+                        <div class="resume-item">
+                            <h4>WebGIS Basic : HTML, CSS, Javascript and Leaflet JS</h4>
+                            <h5>Jun 2024</h5>
+                            <p><em>
+                                    <a href="https://www.sinaugis.com/" target="_blank"><img src="assets/img/about/SINAUGIS.png" width="30"> SinauGIS</a>
+                                    <br>
+                                    Credential ID 001/SG 127/IV/2024
+                                    <br>
+                                    Yogyakarta, Special Region of Yogyakarta, Indonesia
+                                </em></p>
+                            <p>Studying the basic of HTML, CSS, Javascript and utilization of Leaflet JS to build webmap applications.</p>
+                        </div><!-- Edn Resume Item -->
+                        <div class="resume-item">
+                            <h4>TOEFL-ITP</h4>
+                            <h5>Jan 2017</h5>
+                            <p><em>
+                                    <a href="https://www.ets.org/" target="_blank"><img src="assets/img/about/ETS_NEW.png" width="30"> ETS</a>
+                                    <br>
+                                    Credential ID BRONZE:IDN20153:1303130727:550907
+                                    <br>
+                                    Malang, East Java, Indonesia
+                                </em></p>
+                            <p>TOEFL Certification</p>
+                        </div><!-- Edn Resume Item -->
+                        <div class="resume-item">
+                            <h4>Microsoft Office Desktop Application (MODA)</h4>
+                            <h5>Apr 2016</h5>
+                            <p><em>
+                                    <a href="https://education.trusttrain.com/" target="_blank"><img src="assets/img/about/TRUST.png" width="30"> TRUST Training Partners</a>
+                                    <br>
+                                    Credential ID 16UBC04011596
+                                    <br>
+                                    Malang, East Java, Indonesia
+                                </em></p>
+                            <p>Microsoft Office Desktop Application Certification</p>
                         </div><!-- Edn Resume Item -->
 
                     </div>
@@ -172,8 +231,19 @@
                         <h3 class="resume-title">Professional Experience</h3>
 
                         <div class="resume-item">
+                            <h4>Self-Employed</h4>
+                            <h5>Oct 2025 - Present</h5>
+                            <p><em><a href="https://mapniac.com" target="_blank"><img src="assets/img/about/MAPNIAC_COLOR.png" width="30"> Mapniac</a><br> Sidoarjo, East Java, Indonesia</em></p>
+                            <p>Scope of work :</p>
+                            <ol>
+                                <li>Develop new project and opportunities in WebGIS Development</li>
+                                <li>Provide mapping and spatial analysis services</li>
+                            </ol>
+                        </div><!-- End Resume Item -->
+
+                        <div class="resume-item">
                             <h4>Geographic Information System Officer</h4>
-                            <h5>Mar 2020 - Present</h5>
+                            <h5>Mar 2020 - Oct 2025</h5>
                             <p><em><a href="https://ptwita.com" target="_blank"><img src="assets/img/about/WITA.jpg" width="30"> PT. WITA Internasional Bisnis Artisan</a><br> Surabaya, East Java, Indonesia</em></p>
                             <p>Scope of work :</p>
                             <ol>
@@ -263,7 +333,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-gis">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - PALM COUNTING CORRECTION.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - PALM COUNTING CORRECTION.png" class="img-fluid" alt="" width="400.00">
                                 <div class="portfolio-info">
                                     <h4>GIS Project 1</h4>
                                     <p>Palm Counting Correction Process</p>
@@ -275,7 +345,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-gis">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - TRIMBLE ECOGNITION OPA_1.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - TRIMBLE ECOGNITION OPA_1.png" class="img-fluid" alt="" width="400.00">
                                 <div class="portfolio-info">
                                     <h4>GIS Project 1</h4>
                                     <p>Palm Counting Automation with OPA</p>
@@ -287,7 +357,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-gis">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - TRIMBLE ECOGNITION OPA_2.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - TRIMBLE ECOGNITION OPA_2.png" class="img-fluid" alt="" width="400.00">
                                 <div class="portfolio-info">
                                     <h4>GIS Project 1</h4>
                                     <p>Palm Counting Automation with OPA</p>
@@ -299,7 +369,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-dbms">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - SQL DB MANAGEMENT WITH ADMINER.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - SQL DB MANAGEMENT WITH ADMINER.png" class="img-fluid" alt="" width="400.00">
                                 <div class="portfolio-info">
                                     <h4>DBMS Project 1</h4>
                                     <p>Spatial Database Management with PGAdmin</p>
@@ -311,7 +381,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-dbms">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - SQL DB MANAGEMENT WITH DBEAVER.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - SQL DB MANAGEMENT WITH DBEAVER.png" class="img-fluid" alt="" width="400.00">
                                 <div class="portfolio-info">
                                     <h4>DBMS Project 1</h4>
                                     <p>Spatial Database Management with DBeaver</p>
@@ -323,7 +393,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-dbms">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - SQL DB MANAGEMENT WITH ADMINER.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - SQL DB MANAGEMENT WITH ADMINER.png" class="img-fluid" alt="" width="400.00">
                                 <div class="portfolio-info">
                                     <h4>DBMS Project 1</h4>
                                     <p>Spatial Database Management with Adminer PHP</p>
@@ -335,7 +405,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP - PAGE 1.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP - PAGE 1.png" class="img-fluid" alt="" width="400.00">
                                 <div class="portfolio-info">
                                     <h4>Webmap Project 1</h4>
                                     <p>Webmap - Page 1</p>
@@ -347,7 +417,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP - PAGE 2.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP - PAGE 2.png" class="img-fluid" alt="" width="400.00">
                                 <div class="portfolio-info">
                                     <h4>Webmap Project 1</h4>
                                     <p>Webmap - Page 2</p>
@@ -359,7 +429,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP LOGIN PAGE.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - WEBMAP LOGIN PAGE.png" class="img-fluid" alt="" width="400.00">
                                 <div class="portfolio-info">
                                     <h4>Webmap Project 1</h4>
                                     <p>Webmap Login Page</p>
@@ -371,7 +441,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - CODING PROCESS WITH VSCODE.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - CODING PROCESS WITH VSCODE.png" class="img-fluid" alt="" width="400.00">
                                 <div class="portfolio-info">
                                     <h4>Webmap Project 1</h4>
                                     <p>Coding Process with Visual Studio Code</p>
@@ -383,7 +453,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - GEOSERVER.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - GEOSERVER.png" class="img-fluid" alt="" width="400.00">
                                 <div class="portfolio-info">
                                     <h4>Webmap Project 1</h4>
                                     <p>Geoserver</p>
@@ -395,7 +465,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-webmap">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - SQL-GEOSERVER-WEBMAP INTEGRATION.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - SQL-GEOSERVER-WEBMAP INTEGRATION.png" class="img-fluid" alt="" width="400.00">
                                 <div class="portfolio-info">
                                     <h4>Webmap Project 1</h4>
                                     <p>Webmap App Integration</p>
@@ -407,7 +477,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-aerial-photo">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_1.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_1.png" class="img-fluid" alt="" width="400.00">
                                 <div class="portfolio-info">
                                     <h4>Aerial Photo Project 1</h4>
                                     <p>Image Mosaicking Process with Agisoft Photoscan</p>
@@ -419,7 +489,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-aerial-photo">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_2.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_2.png" class="img-fluid" alt="" width="400.00">
                                 <div class="portfolio-info">
                                     <h4>Aerial Photo Project 1</h4>
                                     <p>Image Mosaic in Agisoft Photoscan</p>
@@ -431,7 +501,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-aerial-photo">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_3.png" class="img-fluid" alt="" width="325.33">
+                                <img src="assets/img/portfolio/PORTFOLIO - AGISOFT PHOTOSCAN_3.png" class="img-fluid" alt="" width="400.00">
                                 <div class="portfolio-info">
                                     <h4>Aerial Photo Project 1</h4>
                                     <p>Image Mosaic in Global Mapper</p>
@@ -490,6 +560,7 @@
                                     <p>founder01@mapniac.com</p>
                                 </div>
                             </div><!-- End Info Item -->
+                            <br>
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d75084.67196299437!2d112.70682135!3d-7.447240600000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7e1343346658b%3A0x96cbcb91139dab36!2sSidoarjo%2C%20Sidoarjo%20Regency%2C%20East%20Java!5e1!3m2!1sen!2sid!4v1759503593959!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
@@ -502,10 +573,10 @@
                             data-aos-delay="200">
                             <div class="row gy-4">
                                 <div class="col-md-6">
-                                    <label for="name-field" class="pb-2">Your Name</label>
                                     <input
                                         type="text"
                                         name="name"
+                                        placeholder="Your Name"
                                         id="name-field"
                                         class="form-control"
                                         required="" />
@@ -513,35 +584,40 @@
                                 </div>
 
                                 <div class="col-md-6">
-                                    <label for="email-field" class="pb-2">Your Email</label>
                                     <input
                                         type="email"
                                         class="form-control"
                                         name="email"
+                                        placeholder="Your Email"
                                         id="email-field"
                                         required="" />
                                     <div class="validate"></div>
                                 </div>
 
                                 <div class="col-md-12">
-                                    <label for="subject-field" class="pb-2">Subject</label>
                                     <input
                                         type="text"
                                         class="form-control"
                                         name="subject"
+                                        placeholder="Subject"
                                         id="subject-field"
                                         required="" />
                                     <div class="validate"></div>
                                 </div>
 
                                 <div class="col-md-12">
-                                    <label for="message-field" class="pb-2">Message</label>
                                     <textarea
                                         class="form-control"
                                         name="message"
+                                        placeholder="Message"
                                         rows="10"
                                         id="message-field"
                                         required=""></textarea>
+                                    <div class="validate"></div>
+                                </div>
+
+                                <div class="form-group d-none">
+                                    <input type="text" class="form-control" name="extra_name">
                                     <div class="validate"></div>
                                 </div>
 
@@ -563,6 +639,7 @@
                                 </div>
                             </div>
                         </form>
+
                     </div>
                 </div>
 
