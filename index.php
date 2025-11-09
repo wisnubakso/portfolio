@@ -55,15 +55,13 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <ul>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>March 5th, 1995</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="https://www.linkedin.com/in/wisnubhaskoro/" target="_blank">My Linkedin</a> ; <a href="https://github.com/wisnubakso/" target="_blank">My GitHub</a></span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>WA/Phone:</strong> <span><a href="https://wa.me/6285211220825" target="_blank">+62-852-1122-0825</a></span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Location:</strong> <span>Surabaya, East Java</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Location:</strong> <span>Sidoarjo, East Java</span></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6">
                                 <ul>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><a href="mailto:founder01@mapniac.com" target="_blank">founder01@mapniac.com</a></span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
